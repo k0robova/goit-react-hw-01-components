@@ -1,11 +1,11 @@
 import user from "./jsons/user.json"
-import data from "./jsons/data.json"
-import transactions from "./jsons/transactions.json"
-import friends from "./jsons/friends.json"
+// import data from "./jsons/data.json"
+// import transactions from "./jsons/transactions.json"
+// import friends from "./jsons/friends.json"
 
 
 import { Profile } from "components/Profile/Profile"
-import { FriendList } from "components/FriendList/FriendList"
+// import { FriendList } from "components/FriendList/FriendList"
 // Statistics
 // Transactions
 
