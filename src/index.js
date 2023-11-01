@@ -18,6 +18,7 @@ const product = (
     <img src={imageUrl} alt="Tacos With Lime" width="640" />
     <h2>Tacos With Lime</h2>
     <p>Price: {productPrice}$</p>
+    <p>WOW</p>
     <button type="button">Add to cart</button>
   </div>
 );
