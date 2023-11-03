@@ -1,12 +1,37 @@
+span {
+  display: block;
+}
+
 .statistics {
+  width: 375px;
+  /* height: 200px; */
+  background-color: #c09090;
+  /* padding: 20px; */
+  text-align: center;
+  margin-left: 20px;
 }
 .title {
+  padding-top: 20px;
+  font-size: 25px;
+  font-weight: bold;
 }
 .list {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 2px;
+  padding-bottom: 20px;
 }
 .item {
+  width: 40px;
+  padding: 5px;
+  border: 1px saddlebrown solid;
+  box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.2);
 }
 .label {
+  font-size: 15px;
 }
 .percentage {
+  font-size: 18px;
+  font-weight: bold;
 }
